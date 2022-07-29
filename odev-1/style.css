@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 10px;
+    background-color: #052234;
+    color: #DFF6FF;
+}
+a{
+    text-decoration: none;
+    color: #DFF6FF;
+}
+main{
+    margin: 20px 0;
+}
+.welcomeTextRow{
+    margin: 10px 0;
+}
+.headerContainer{
+    background-color: #06283D;
+}
+.mainContainer{
+    padding: 3rem;
+}
+.textContainer{
+    padding: 20px;
+}
+.footerContainer{
+    background-color: #06283D;
+    padding: 5px;
+}
+.card-body{
+    background-color:  #06283D;
+}
